@@ -4,7 +4,7 @@
 
   <groupId>com.github.jfmillan</groupId>
   <artifactId>libcomm</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>1.0.0</version>
   <packaging>jar</packaging>
 
   <name>libcomm</name>
@@ -19,7 +19,7 @@
 		<dependency>
 			<groupId>com.github.jfmillan</groupId>
 			<artifactId>utils-commons</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
+			<version>1.0.0</version>
 		</dependency>
 	</dependencies>
 
