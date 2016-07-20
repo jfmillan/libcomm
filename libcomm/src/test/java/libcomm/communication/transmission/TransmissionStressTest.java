@@ -42,10 +42,10 @@ import commons.util.PrintUtils;
 public class TransmissionStressTest extends AbstractTransmissionTest {
 
 	/* Número total de mensajes a enviar por cada comunicador por separado, cliente y servidor. */
-	private static final int MESSAGES = 500;
+	private static final int MESSAGES = 10000;
 	
 	/* Tiempo máximo de espera entre envío de mensajes, calculado aleatoriamente entre 0 (sin espera) y el número indicado (máxima espera). */
-	private static final int MAX_WAIT_MILLIS = 100;
+	private static final int MAX_WAIT_MILLIS = 10;
 	
 	/* Semilla aleatoria para crear los mensajes. */
 	private static final Random RANDOM = new Random(System.currentTimeMillis());
