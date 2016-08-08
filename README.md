@@ -1,2 +1,2 @@
 # libcomm
-Librería de comunicaciones simple basada en RFC1006
+Práctica. Librería de comunicaciones muy simple basada en RFC1006.
